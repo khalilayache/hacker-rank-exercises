@@ -1,4 +1,4 @@
-package jv.substring;
+package java.substring;
 
 
 //https://www.hackerrank.com/challenges/java-substring/problem

@@ -1,4 +1,4 @@
-package jv.currency_formatter;
+package java.currency_formatter;
 
 
 import java.text.NumberFormat;

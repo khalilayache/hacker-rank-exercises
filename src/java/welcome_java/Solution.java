@@ -1,4 +1,4 @@
-package jv.welcome_java;
+package java.welcome_java;
 
 //https://www.hackerrank.com/challenges/welcome-to-java/problem
 

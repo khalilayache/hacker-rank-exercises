@@ -1,4 +1,4 @@
-package jv.int_to_string;
+package java.int_to_string;
 
 import java.security.Permission;
 import java.util.Scanner;

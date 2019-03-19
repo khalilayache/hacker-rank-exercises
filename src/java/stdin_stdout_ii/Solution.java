@@ -1,4 +1,4 @@
-package jv.stdin_stdout_ii;
+package java.stdin_stdout_ii;
 
 import java.util.Scanner;
 
